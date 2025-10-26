@@ -1,0 +1,7 @@
+{
+  "name": "Intelligent Fake News Detection System",
+  "description": "An AI-powered system to detect fake news from text or voice input. It provides a truthfulness score, fact-verification from web sources, multilingual support, and an interactive chatbot to explain the results.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
